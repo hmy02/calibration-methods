@@ -1,5 +1,5 @@
 # calibration-methods
-several different calibration methods in papers as follow
+reproduce several different calibration methods in papers as follow
 
 [1] Generalized Nonlinear Least Squares Method for the Calibration of Complex Computer Code Using a Gaussian Process Surrogate
 
